@@ -9,3 +9,14 @@ print("                                                                |   \    
 print("                                                                             ")
 
 
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+print("'                                                                   '")
+print("'      Thanks For Using Our Weather Python Program - Byy !!!!!      '")
+print("'                      CREATED BY - Vinit Vijal                     '")
+print("'                                                                   '")
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+print("                                                                             ")
+print("                                                                             ")
+print("                                                                             ")
+print("                                                                             ")
+print("                                                                             ")
