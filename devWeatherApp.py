@@ -51,8 +51,12 @@ while work == 1:
             if city == "exit":
                 print()
                 print()
-                print()
-                print("Thanks For Using 'VinuWeather PyApp' Byy....")
+                print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+                print("'                                                                   '")
+                print("'      Thanks For Using Our Weather Python Program - Byy !!!!!      '")
+                print("'                      CREATED BY - Vinit Vijal                     '")
+                print("'                                                                   '")
+                print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
                 print()
                 print()
                 num = 5
