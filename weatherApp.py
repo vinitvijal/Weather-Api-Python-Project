@@ -1,8 +1,6 @@
 import requests
 import json
 
-
-
 # My Functions Are Down Here :
 def weather(city):
     while True:
@@ -103,8 +101,8 @@ print()
 print()
 print()
 
-num = 0 #at 0 it will directly run without asking do you want details....
-work = 1 #Here 1 means Yes and 0 means No
+num = 0                     #at 0 it will directly run without asking do you want details....
+work = 1                    #Here 1 means Yes and 0 means No
 while work == 1:
     if num != 0:
         code = input("Do you want more weather details? (y/n) : ")
